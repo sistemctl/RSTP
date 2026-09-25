@@ -1,0 +1,258 @@
+[
+  {
+    "id": "cam-01",
+    "name": "Cámara 01",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 1,
+    "enabled": true
+  },
+  {
+    "id": "cam-02",
+    "name": "Cámara 02",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 2,
+    "enabled": true
+  },
+  {
+    "id": "cam-03",
+    "name": "Cámara 03",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 3,
+    "enabled": true
+  },
+  {
+    "id": "cam-04",
+    "name": "Cámara 04",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 4,
+    "enabled": true
+  },
+  {
+    "id": "cam-05",
+    "name": "Cámara 05",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 5,
+    "enabled": true
+  },
+  {
+    "id": "cam-06",
+    "name": "Cámara 06",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 6,
+    "enabled": true
+  },
+  {
+    "id": "cam-07",
+    "name": "Cámara 07",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 7,
+    "enabled": true
+  },
+  {
+    "id": "cam-08",
+    "name": "Cámara 08",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 8,
+    "enabled": true
+  },
+  {
+    "id": "cam-09",
+    "name": "Cámara 09",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 9,
+    "enabled": true
+  },
+  {
+    "id": "cam-10",
+    "name": "Cámara 10",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 10,
+    "enabled": true
+  },
+  {
+    "id": "cam-11",
+    "name": "Cámara 11",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 11,
+    "enabled": true
+  },
+  {
+    "id": "cam-12",
+    "name": "Cámara 12",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 12,
+    "enabled": true
+  },
+  {
+    "id": "cam-13",
+    "name": "Cámara 13",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 13,
+    "enabled": true
+  },
+  {
+    "id": "cam-14",
+    "name": "Cámara 14",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 14,
+    "enabled": true
+  },
+  {
+    "id": "cam-15",
+    "name": "Cámara 15",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 15,
+    "enabled": true
+  },
+  {
+    "id": "cam-16",
+    "name": "Cámara 16",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 16,
+    "enabled": true
+  },
+  {
+    "id": "cam-17",
+    "name": "Cámara 17",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 17,
+    "enabled": true
+  },
+  {
+    "id": "cam-18",
+    "name": "Cámara 18",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 18,
+    "enabled": true
+  },
+  {
+    "id": "cam-19",
+    "name": "Cámara 19",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 19,
+    "enabled": true
+  },
+  {
+    "id": "cam-20",
+    "name": "Cámara 20",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 20,
+    "enabled": true
+  },
+  {
+    "id": "cam-21",
+    "name": "Cámara 21",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 21,
+    "enabled": true
+  },
+  {
+    "id": "cam-22",
+    "name": "Cámara 22",
+    "dvr": "Dahua 01",
+    "brand": "Dahua",
+    "channel": 22,
+    "enabled": true
+  },
+  {
+    "id": "cam-23",
+    "name": "Cámara 23",
+    "dvr": "Hikvision 01",
+    "brand": "Hikvision",
+    "channel": 1,
+    "enabled": true
+  },
+  {
+    "id": "cam-24",
+    "name": "Cámara 24",
+    "dvr": "Hikvision 01",
+    "brand": "Hikvision",
+    "channel": 2,
+    "enabled": true
+  },
+  {
+    "id": "cam-25",
+    "name": "Cámara 25",
+    "dvr": "Hikvision 01",
+    "brand": "Hikvision",
+    "channel": 3,
+    "enabled": true
+  },
+  {
+    "id": "cam-26",
+    "name": "Cámara 26",
+    "dvr": "Hikvision 01",
+    "brand": "Hikvision",
+    "channel": 4,
+    "enabled": true
+  },
+  {
+    "id": "cam-27",
+    "name": "Cámara 27",
+    "dvr": "Hikvision 02",
+    "brand": "Hikvision",
+    "channel": 1,
+    "enabled": true
+  },
+  {
+    "id": "cam-28",
+    "name": "Cámara 28",
+    "dvr": "Hikvision 02",
+    "brand": "Hikvision",
+    "channel": 2,
+    "enabled": true
+  },
+  {
+    "id": "cam-29",
+    "name": "Cámara 29",
+    "dvr": "Hikvision 02",
+    "brand": "Hikvision",
+    "channel": 3,
+    "enabled": true
+  },
+  {
+    "id": "cam-30",
+    "name": "Cámara 30",
+    "dvr": "Hikvision 02",
+    "brand": "Hikvision",
+    "channel": 4,
+    "enabled": true
+  },
+  {
+    "id": "cam-31",
+    "name": "Reserva 1",
+    "dvr": "Sin asignar",
+    "brand": "Hikvision",
+    "channel": 0,
+    "enabled": false
+  },
+  {
+    "id": "cam-32",
+    "name": "Reserva 2",
+    "dvr": "Sin asignar",
+    "brand": "Hikvision",
+    "channel": 0,
+    "enabled": false
+  }
+]
